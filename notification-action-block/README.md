@@ -6,6 +6,8 @@ Each workflow block represents a logical step within a larger *monday workflow*.
 
 In this guide, we’ll be building an **action block** that sends a notification to a user. 
 
+> NOTE: The workflow block builder is still in closed beta. It will be released in the coming months. 
+
 ## Create the workflow block feature
 
 Open the monday app that you want to add this feature to. If you haven’t created an app yet, [follow these steps](https://developer.monday.com/apps/docs/manage#creating-a-new-app). 
