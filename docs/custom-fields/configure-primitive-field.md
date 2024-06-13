@@ -2,7 +2,7 @@
 
 Primitive fields represent data in the 3 primitive data types – string, number or boolean. 
 - String - contains a piece of text
-- Number - contains numeric data
+- Number - contains numeric data (can be positive, negative, integer or floating point)
 - Boolean – contains true or false data
 
 1. Choose string, number, or boolean as the schema type
